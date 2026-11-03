@@ -1,0 +1,14 @@
+# Environment variables
+.env
+**/.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+myenv/
+venv/
+
+# IntelliJ
+.idea/
